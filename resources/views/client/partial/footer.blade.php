@@ -4,7 +4,7 @@
         <h3>Khám phá</h3>
         <a href="{{ route('client.home') }}"> <i class="fas fa-arrow-right"></i> Trang chủ </a>
         <a href="{{ route('client.about') }}">
-          <i class="fas fa-arrow-right"></i> Về I-SHARE
+          <i class="fas fa-arrow-right"></i> Về E-SHARING
         </a>
         <a href="{{ route('client.contact') }}">
           <i class="fas fa-arrow-right"></i> Liên hệ
@@ -23,7 +23,7 @@
         <h3>Theo dõi chúng tôi</h3>
         <a href="#"> <i class="fab fa-facebook-f"></i> Facebook </a>
         <a href="https://github.com/ductwok/PHP_laravel_nhom9/tree/main/objectCourse"> <i class="fab fa-github"></i> Github </a>
-        <a href="#"> <i class="far fa-envelope"></i> ishare@gmail.com </a>
+        <a href="#"> <i class="far fa-envelope"></i> esharing@gmail.com </a>
       </div>
     </div>
 

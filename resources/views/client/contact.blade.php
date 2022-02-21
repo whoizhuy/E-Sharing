@@ -20,8 +20,8 @@
             <div class="icons">
                 <i class="fas fa-envelope"></i>
                 <h3>Email</h3>
-                <p>ishare@gmail.com</p>
-                <p>ishare-supporter@gmail.com</p>
+                <p>esharing@gmail.com</p>
+                <p>esharing-supporter@gmail.com</p>
             </div>
 
             <div class="icons">
@@ -37,7 +37,7 @@
                 <input type="text" placeholder="Họ và tên" class="box" />
                 <input type="number" placeholder="Số điện thoại" class="box" />
                 <input type="email" placeholder="Email" class="box" />
-                <textarea name="" placeholder="Bạn muốn nhắn nhủ e-learning điều gì" id="" cols="30" rows="10"></textarea>
+                <textarea name="" placeholder="Bạn muốn nhắn nhủ e-sharing điều gì" id="" cols="30" rows="10"></textarea>
                 <button class="btn send_request" >Gửi thôi nào!</button>
             </form>
 

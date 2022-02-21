@@ -10,7 +10,7 @@
         <div class="content">
           <h3>Khoá học dẫn đến thành công</h3>
           <p>
-            <span style="color: #fa1d86; font-weight: bold">E-SHARE</span> nơi
+            <span style="color: #fa1d86; font-weight: bold">E-SHARING</span> nơi
             chia sẻ các khoá học chất lượng và nó hoàn toàn
             <span style="color: #fa1d86">miễn phí</span>
           </p>
